@@ -1,75 +1,16 @@
-# Nuxt Minimal Starter
+# Resume Website Template
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A lightweight **Nuxt 4** template for building a **personal resume website**.  
+Editable via a **Git-based CMS** with content stored in YAML file.  
+Includes smooth animations and PDF export.  
 
-## Setup
+This project is a **boilerplate** — you can clone it, replace the content with your own, and deploy your resume quickly, and export your resume as a PDF.
 
-Make sure to install dependencies:
+## Features
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Static and fast website
+- Content in YAML file
+- Editable via Git-based CMS
+- Smooth animations for sections and elements
+- PDF export of resume
+- Responsive design
