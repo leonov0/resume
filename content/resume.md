@@ -36,7 +36,7 @@ experience:
     end: "2025-08"
     summary: >
       Built internal SPAs and platform services, improved deployments and modularization.
-    achievements:
+    responsibilities:
       - "Developed internal SPAs with Nuxt 3 + NestJS"
       - "Set up CI/CD pipelines (GitHub Actions), docker-compose infrastructure"
       - "Migrated a monolith to modular architecture"
@@ -52,16 +52,21 @@ experience:
     end: "2022-12"
     summary: >
       Maintained .NET services and delivered integrations.
-    achievements:
+    responsibilities:
       - "Maintained legacy services on .NET 6"
       - "Implemented REST APIs and integrated with payment providers"
     technologies:
       Backend: [".NET 6", "EF Core"]
       Integrations: ["REST", "Payment providers"]
 
+achievements:
+  - description: "Achieved **1st place** in [SkillsLatvia 2025](https://example.com/skillslatvia-2025), demonstrating exceptional proficiency in web development and problem-solving skills."
+  - description: "Spoke at **DevFest Riga 2024** about DDD — slides: [link](https://devfest.lv)."
+
 projects:
   - name: "JobBoardX"
     link: ""
+    role: "Full-stack developer"
     description: "Freelance job board"
     technologies: ["Nuxt", "Laravel", "WebSockets"]
   - name: "Contentus Bot"
