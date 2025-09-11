@@ -3,22 +3,22 @@
   "type": "module",
   "private": true,
   "scripts": {
-      "build": "nuxt build",
-      "dev": "nuxt dev",
-      "generate": "nuxt generate",
-      "preview": "nuxt preview",
-      "postinstall": "nuxt prepare",
-      "lint": "eslint .",
-      "lint:fix": "eslint . --fix"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-      "@nuxt/content": "^3.6.3",
-      "@nuxt/eslint": "^1.9.0",
-      "@nuxt/icon": "^2.0.0",
-      "@tailwindcss/vite": "^4.1.13",
-      "eslint": "^9.35.0",
-      "nuxt": "^4.1.1",
-      "tailwindcss": "^4.1.13",
-      "typescript": "^5.9.2"
+    "@nuxt/content": "^3.6.3",
+    "@nuxt/eslint": "^1.9.0",
+    "@nuxt/icon": "^2.0.0",
+    "@tailwindcss/vite": "^4.1.13",
+    "eslint": "^9.35.0",
+    "nuxt": "^4.1.1",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
   }
 }
