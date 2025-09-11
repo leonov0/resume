@@ -16,7 +16,7 @@ summary: >
   I write maintainable code, enjoy covering critical parts with tests, and
   measuring results with metrics.
 
-skills:                     
+skills:
   - group: "Languages"
     items: ["JavaScript", "TypeScript", "C#", "SQL"]
   - group: "Frontend"
@@ -28,7 +28,7 @@ skills:
   - group: "DevOps"
     items: ["Docker", "CI/CD (GitHub Actions)", "Git"]
 
-experience:                
+experience:
   - company: "Acme Labs"
     role: "Full-Stack Developer"
     location: "Riga, LV"
@@ -53,13 +53,13 @@ experience:
     summary: >
       Maintained .NET services and delivered integrations.
     achievements:
-      - "Maintained legacy services on .NET 8"
+      - "Maintained legacy services on .NET 6"
       - "Implemented REST APIs and integrated with payment providers"
     technologies:
-      Backend: [".NET 8", "EF Core"]
+      Backend: [".NET 6", "EF Core"]
       Integrations: ["REST", "Payment providers"]
 
-projects:                 
+projects:
   - name: "JobBoardX"
     link: ""
     description: "Freelance job board"
@@ -69,8 +69,8 @@ projects:
     description: "Telegram bot for content generation"
     technologies: ["NestJS", "OpenAI API"]
 
-education:               
-  - degree: "Bachelor of Science"
+education:
+  - degree: "BSc"
     field: "Computer Science"
     institution: "RTU"
     location: "Riga, LV"
